@@ -1,0 +1,23 @@
+# ninja log v5
+15	1398	632517411	CMakeFiles/Digger.dir/src/File.cpp.obj	2469f1bff32408e3
+19	1979	632517412	CMakeFiles/Digger.dir/src/Toolbar.cpp.obj	46cdea15ed71b909
+25	1985	632517412	CMakeFiles/Digger.dir/src/Moving.cpp.obj	12317fd624b4024f
+28	2038	632517412	CMakeFiles/Digger.dir/src/Score.cpp.obj	66c5c9b500b4ed01
+12	2277	632517412	CMakeFiles/Digger.dir/src/game_object.cpp.obj	6ee2bea8e522b9cc
+9	2301	632517412	CMakeFiles/Digger.dir/src/Board.cpp.obj	7c72a9596fccac31
+4	2383	632517412	CMakeFiles/Digger.dir/src/digger.cpp.obj	bd650afc8abf50b6
+22	2546	632517412	CMakeFiles/Digger.dir/src/Recorces.cpp.obj	3e5b06de99b5b506
+1	2557	632517412	CMakeFiles/Digger.dir/src/main.cpp.obj	f8f88cd785e548db
+6	2836	632517413	CMakeFiles/Digger.dir/src/Controller.cpp.obj	b41d14f71819d6e4
+1398	3496	632517413	CMakeFiles/Digger.dir/src/Level.cpp.obj	5ba2a8f60596c983
+1981	4159	632517414	CMakeFiles/Digger.dir/src/Life.cpp.obj	ee554994be0519a2
+2302	4191	632517414	CMakeFiles/Digger.dir/src/Stone.cpp.obj	7cf028a96c9dbeb5
+1986	4218	632517414	CMakeFiles/Digger.dir/src/Regular_monster.cpp.obj	8c8f1d2dd4383478
+2277	4297	632517414	CMakeFiles/Digger.dir/src/Wall.cpp.obj	5cc5ea723c0b2910
+2038	4510	632517414	CMakeFiles/Digger.dir/src/Diamond.cpp.obj	7456148d9cacada2
+2383	4577	632517415	CMakeFiles/Digger.dir/src/Screen.cpp.obj	b0c1f3e762868ba4
+2546	4647	632517415	CMakeFiles/Digger.dir/src/gift.cpp.obj	51d520e217887c16
+2557	4707	632517415	CMakeFiles/Digger.dir/src/Monster.cpp.obj	652da03e161de00
+2837	4780	632517415	CMakeFiles/Digger.dir/src/Smart_monster.cpp.obj	c50e6520a825b84e
+3496	5165	632517415	CMakeFiles/Digger.dir/src/Timer.cpp.obj	c7576cb46fe7c302
+5166	6126	632517416	Digger.exe	8947bb7d5e0210d7
